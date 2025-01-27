@@ -152,7 +152,7 @@ ul {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url('static/images/virkelvido.jpg');
+    background-image: url('/static/images/virkelvido.jpg');
     background-size: cover;
     background-position: center;
 }
