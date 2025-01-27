@@ -54,7 +54,7 @@ const musicData = [
 const memberData = [
     {
         name: "terdik",
-        role: "alapító",
+        role: "alapító, sm manager",
         profilePic: "/static/images/pfp-terdik.jpg",
         isOG: true,
         socials: [
@@ -80,7 +80,8 @@ const memberData = [
         socials: [
             { link: "https://x.com/sonkadev", icon: "bx bxl-twitter" },
             { link: "https://github.com/sonkadev", icon: "bx bxl-github" },
-            { link: "https://sonka.lol", icon: "bx bx-globe" }
+            { link: "https://sonka.lol", icon: "bx bx-globe" },
+            { link: "https://t.me/fogyatekos", icon: "bx bxl-telegram" }
         ]
     },
     {
@@ -92,6 +93,26 @@ const memberData = [
             { link: "https://x.com/chlkrisz", icon: "bx bxl-twitter" },
             { link: "https://github.com/chlkrisz", icon: "bx bxl-github" },
             { link: "https://liba.lol", icon: "bx bx-globe" }
+        ]
+    },
+    {
+        name: "Zeplyx",
+        role: "sm manager",
+        profilePic: "/static/images/pfp-zeplyx.png",
+        isOG: false,
+        socials: [
+            { link: "https://x.com/zeplyyx", icon: "bx bxl-twitter" },
+            { link: "https://github.com/zplx", icon: "bx bxl-github" },
+            { link: "https://zeplyx.hu", icon: "bx bx-globe" }
+        ]
+    },
+    {
+        name: "sleepy",
+        role: "néha rajzol",
+        profilePic: "/static/images/pfp-blastixxed.png",
+        isOG: false,
+        socials: [
+            { link: "https://osu.ppy.sh/users/35222110", icon: "bx bxs-music" }
         ]
     }
 ];
