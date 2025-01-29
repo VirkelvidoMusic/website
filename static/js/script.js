@@ -112,7 +112,9 @@ const memberData = [
         profilePic: "/static/images/pfp-blastixxed.png",
         isOG: false,
         socials: [
-            { link: "https://osu.ppy.sh/users/35222110", icon: "bx bxs-music" }
+            { link: "https://osu.ppy.sh/users/35222110", icon: "bx bxs-music" },
+            { link: "https://etternaonline.com/users/Blastixxed", icon: "bx bxs-music" },
+            { link: "https://www.youtube.com/@sleepy.cereal", icon: "bx bxl-youtube" }
         ]
     }
 ];
